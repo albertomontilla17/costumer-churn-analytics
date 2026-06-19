@@ -16,16 +16,6 @@ Built as part of an Artificial Intelligence course at Miami Dade College (Profes
 
 ---
 
-## Project Structure
-
-costumer-churn-analytics/
-
-│
-├── data/raw/                  # Raw Telco dataset
-├── notebooks/
-│   └── 01_eda_churn.ipynb     # EDA + modeling notebook
-└── README.md
-
 ## What's Inside the Notebook
 
 ### 1. Exploratory Data Analysis (EDA)
